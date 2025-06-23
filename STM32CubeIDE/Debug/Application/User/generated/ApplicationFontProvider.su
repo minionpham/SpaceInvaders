@@ -1,0 +1,3 @@
+C:/TouchGFXProjects/SpaceInvaders/TouchGFX/generated/fonts/src/ApplicationFontProvider.cpp:8:17:virtual touchgfx::Font* ApplicationFontProvider::getFont(touchgfx::FontId)	0	static
+../../TouchGFX/generated/fonts/include/fonts/ApplicationFontProvider.hpp:23:7:ApplicationFontProvider::~ApplicationFontProvider()	0	static
+../../TouchGFX/generated/fonts/include/fonts/ApplicationFontProvider.hpp:23:7:virtual ApplicationFontProvider::~ApplicationFontProvider()	8	static
