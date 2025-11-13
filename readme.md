@@ -1,3 +1,3 @@
 
  ĐỀ TÀI : XÂY DỰNG TRÒ CHƠI SPACE INVADERS TRÊN KIT PHÁT TRIỂN STM32F429I-DISC1
- Nhóm 12 - Học phần: Hệ Nhúng
+ Học phần: Hệ Nhúng
